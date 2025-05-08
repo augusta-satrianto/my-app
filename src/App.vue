@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <!-- Navbar -->
     <header class="bg-white shadow sticky top-0 z-50">
       <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-        <h1 class="text-2xl font-bold text-blue-600">CodeMart</h1>
+        <h1 class="text-2xl font-bold text-blue-600">Beli Kode</h1>
         <nav class="space-x-4">
           <a href="#" class="hover:text-blue-600">Beranda</a>
           <a href="#products" class="hover:text-blue-600">Produk</a>
